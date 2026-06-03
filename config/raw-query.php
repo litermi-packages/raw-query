@@ -17,3 +17,4 @@ return [
      */
     'default_connection' => 'mysql',
 ];
+
