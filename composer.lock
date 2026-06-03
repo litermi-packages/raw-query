@@ -2514,16 +2514,16 @@
             "time": "2024-04-29T22:41:28+00:00"
         },
         {
-            "name": "litermi/cache-query-builder",
+            "name": "litermi-packages/cache-query-builder",
             "version": "1.0.47",
             "source": {
                 "type": "git",
-                "url": "https://github.com/litermi/cache-query-builder.git",
+                "url": "https://github.com/litermi-packages/cache-query-builder.git",
                 "reference": "608072dc26405f95dab3cd67abf55ec74c26b0e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/litermi/cache-query-builder/zipball/608072dc26405f95dab3cd67abf55ec74c26b0e0",
+                "url": "https://api.github.com/repos/litermi-packages/cache-query-builder/zipball/608072dc26405f95dab3cd67abf55ec74c26b0e0",
                 "reference": "608072dc26405f95dab3cd67abf55ec74c26b0e0",
                 "shasum": ""
             },
@@ -2534,7 +2534,7 @@
                 "illuminate/database": "^6.9|^7.0|^8.0|^9.0|^10.0|^11.0",
                 "illuminate/http": "^6.9|^7.0|^8.0|^9.0|^10.0|^11.0",
                 "kirschbaum-development/eloquent-power-joins": "^2.5|^2.6|^3.5",
-                "litermi/logs": "^1.0",
+                "litermi-packages/logs": "^1.0",
                 "php": "^7.4|^8.0",
                 "spatie/laravel-query-builder": "^3.6|^5.0|^5.8"
             },
@@ -2572,21 +2572,21 @@
                 "query"
             ],
             "support": {
-                "source": "https://github.com/litermi/cache-query-builder/tree/1.0.47"
+                "source": "https://github.com/litermi-packages/cache-query-builder/tree/1.0.47"
             },
             "time": "2024-05-08T18:21:42+00:00"
         },
         {
-            "name": "litermi/error-notification",
+            "name": "litermi-packages/error-notification",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/litermi/error-notification.git",
+                "url": "https://github.com/litermi-packages/error-notification.git",
                 "reference": "a8e65c522def05179cea6a39258c8d4079c179d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/litermi/error-notification/zipball/a8e65c522def05179cea6a39258c8d4079c179d3",
+                "url": "https://api.github.com/repos/litermi-packages/error-notification/zipball/a8e65c522def05179cea6a39258c8d4079c179d3",
                 "reference": "a8e65c522def05179cea6a39258c8d4079c179d3",
                 "shasum": ""
             },
@@ -2600,7 +2600,7 @@
                 "illuminate/notifications": "^7.20|^8.19|^9.0|^10.0|^11.0",
                 "illuminate/support": "^7.20|^8.19|^9.0|^10.0|^11.0",
                 "laravel/slack-notification-channel": "^2.3|^3.2",
-                "litermi/logs": "^1.0",
+                "litermi-packages/logs": "^1.0",
                 "php": "^8.0"
             },
             "default-branch": true,
@@ -2637,21 +2637,21 @@
                 "log"
             ],
             "support": {
-                "source": "https://github.com/litermi/error-notification/tree/1.0.25"
+                "source": "https://github.com/litermi-packages/error-notification/tree/1.0.25"
             },
             "time": "2024-05-08T18:23:12+00:00"
         },
         {
-            "name": "litermi/logs",
+            "name": "litermi-packages/logs",
             "version": "1.0.30",
             "source": {
                 "type": "git",
-                "url": "https://github.com/litermi/log.git",
+                "url": "https://github.com/litermi-packages/log.git",
                 "reference": "63a7519f9a9467a6b14fe0379a33f89cbc5bafd5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/litermi/log/zipball/63a7519f9a9467a6b14fe0379a33f89cbc5bafd5",
+                "url": "https://api.github.com/repos/litermi-packages/log/zipball/63a7519f9a9467a6b14fe0379a33f89cbc5bafd5",
                 "reference": "63a7519f9a9467a6b14fe0379a33f89cbc5bafd5",
                 "shasum": ""
             },
@@ -2699,7 +2699,7 @@
                 "log"
             ],
             "support": {
-                "source": "https://github.com/litermi/log/tree/1.0.30"
+                "source": "https://github.com/litermi-packages/log/tree/1.0.30"
             },
             "time": "2024-05-08T18:31:53+00:00"
         },

@@ -10,9 +10,9 @@ The `Raw Query` is a package to run raw query as php for first step to migrate o
 
 ## Installation
 
-Require the `litermi/raw-query` package in your `composer.json` and update your dependencies:
+Require the `litermi-packages/raw-query` package in your `composer.json` and update your dependencies:
 ```sh
-composer require litermi/raw-query
+composer require litermi-packages/raw-query
 ```
 
 
